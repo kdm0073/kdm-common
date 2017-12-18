@@ -4,6 +4,7 @@ public class User {
 	private Integer id;
 	private String name;
 	private String add;
+	private String age;
 	
 	public String getAdd() {
 		return add;
