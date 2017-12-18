@@ -5,6 +5,7 @@ public class User {
 	private String name;
 	private String add;
 	private String age;
+	private String sex;
 	
 	public String getAdd() {
 		return add;
