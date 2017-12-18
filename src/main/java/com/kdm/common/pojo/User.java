@@ -3,6 +3,14 @@ package com.kdm.common.pojo;
 public class User {
 	private Integer id;
 	private String name;
+	private String add;
+	
+	public String getAdd() {
+		return add;
+	}
+	public void setAdd(String add) {
+		this.add = add;
+	}
 	public Integer getId() {
 		return id;
 	}
